@@ -1,13 +1,11 @@
 # Navigation Links in French
 main:
-  - title: "Accueil"
-    url: /fr/accueil/
-  - title: "Les parcours"
-    url: /fr/parcours/
-  - title: "Enseignement Commun"
-    url: /fr/enseignement/
-  - title: "Contrat Pro"
-    url: /fr/contratpro
+  - title: "Histoire du badminton"
+    url: /fr/histoire/
+  - title: "Les règles"
+    url: /fr/regles/
+  - title: "En videos"
+    url: /fr/envideos/
   - title: "Contact"
     url: /fr/contact/
   - title: ':gb:'

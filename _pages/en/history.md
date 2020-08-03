@@ -1,17 +1,17 @@
 ---
 lang: en
-title: "About "
-permalink: /about/
+title: "History"
+permalink: /history/
 
 collection: people
 entries_layout: grid
 teaser_class: staff
 sort_by: orden 
 
-excerpt: "About FF"
+excerpt: ""
 header:
-  overlay_image: /assets/images/banner/index/bannerindexfr.png
-  image_description: ""
+  overlay_image: /assets/images/banner/index/bannerhistoire.jpg
+  image_description: "History"
 
 
 intro:

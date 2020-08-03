@@ -1,27 +1,19 @@
 ---
-title: "Contacts"
+title: "Contact"
 permalink: /fr/contact/
-excerpt: "Vos interlocuteurs"
+excerpt: "Votre interlocuteur"
 
 header:
-  overlay_image: /assets/images/contact/bannercontact.jpg  
+  overlay_image: /assets/images/banner/bannercontact.jpg  
   image_description: "contact"
 last_modified_at: 2020-06-08
 ---
 
-## Contacts Informations
+## Contact et informations
 
 
-### **Parcours IUVTT**
-Céline DROY  
-Ecole Nationale Supérieure en Génie des Systèmes et de l'Innovation  
-8 rue Bastien Lepage  
-BP 90647 - 54010 Nancy Cedex  
-Mail : celine.droy {at} univ-lorraine.fr  
+### **Votre référent badminton**
+Frédérick FONTAINE 
+Grand-Est
+Mail : frederickfontaine {at} icloud.com  
 
-### **Parcours Intelligence Territoriale**
-shs-metz-formation-contact {at} univ-lorraine.fr  
-
-### **Parcours Border Studies**  
-
-shs-metz-formation-contact {at} univ-lorraine.fr
