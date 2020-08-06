@@ -153,4 +153,8 @@
 <url>
 <loc>http://localhost:4000/badminton/videos/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/badminton/assets/uploads/doc/reglementffbad.pdf</loc>
+<lastmod>2020-08-03T10:24:58+02:00</lastmod>
+</url>
 </urlset>

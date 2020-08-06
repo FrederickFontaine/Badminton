@@ -9,11 +9,17 @@ header:
 last_modified_at: 2020-06-08
 ---
 
-## Contact et informations
 
 
-### **Votre référent badminton**
-Frédérick FONTAINE 
-Grand-Est
+## Contact et informations ## 
+
+Votre référent badminton
+=============
+
+Frédérick FONTAINE  
+
+
 Mail : frederickfontaine {at} icloud.com  
 
+
+![Frédérick FONTAINE](/badminton/assets/images/pages/imagecontact.png)
