@@ -151,7 +151,7 @@ Le volant n'est pas en jeu lorsque :
 
 --------------------- 
 
-[*Textes extraits de Entrainement Sportif*]https://entrainement-sportif.fr/regles-badminton.htm
+[*Textes extraits de Entrainement Sportif*](https://entrainement-sportif.fr/regles-badminton.htm)
 
 
 

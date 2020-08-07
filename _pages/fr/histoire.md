@@ -15,7 +15,7 @@ last_modified_at: 2020-06-08
 ---
 
 
-Les ancêtres du badminton sont multiples. L'échange de volants frappés avec une partie du corps ou un instrument remonte à plus de deux millénaires en Chine. Au Japon, on pratiquait le hanetsuki vers la fin de l'époque médiévale. En Europe, l’un des ancêtres du badminton est le battledore and shuttlecock pratiqué en Angleterre dès le Moyen Âge, l’objectif du jeu étant de maintenir en l’air un shuttlecock (volant) à l’aide d’une battledore (raquette ou palette). On trouve des images du jeu de volant dans les peintures d'artistes du xviie siècle comme par exemple La Fillette au Volant de Chardin.  
+Les ancêtres du badminton sont multiples. L'échange de volants frappés avec une partie du corps ou un instrument remonte à plus de deux millénaires en Chine. Au Japon, on pratiquait le hanetsuki vers la fin de l'époque médiévale. En Europe, l’un des ancêtres du badminton est le battledore and shuttlecock pratiqué en Angleterre dès le Moyen Âge, l’objectif du jeu étant de maintenir en l’air un shuttlecock (volant) à l’aide d’une battledore (raquette ou palette). On trouve des images du jeu de volant dans les peintures d'artistes du xviie siècle comme par exemple *La Fillette au Volant* de Chardin.  
 
 ![La Fillette au Volant de Chardin](/badminton/assets/images/pages/fillette.jpg)
 

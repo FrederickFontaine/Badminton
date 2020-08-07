@@ -28,4 +28,4 @@ Depuis 1992, le badminton est un sport olympique qui se décline en 5 discipline
 
 C'est le sport de raquette le plus rapide du monde1, il est fréquent de voir une douzaine d'échanges en double en moins de 10 secondes. Le record de vitesse pour un volant en compétition est détenu depuis le 11 janvier 2017 par Mads Pieler Kolding, joueur danois de double hommes, qui a frappé le volant à la vitesse de 426 km/h2. Le Malaisien Tan Boon Heong, également joueur de double hommes, a, pour sa part, propulsé un volant à 493 km/h en sortie de raquette en conditions optimales, établissant ainsi le record Guinness actuel, battant ainsi l'ancien record de 421 km/h qu'il avait également établi3.  
 
-(texte extrait de Wikipedia)
+[*Textes extraits de Wikipedia*](https://fr.wikipedia.org/wiki/Badminton)
