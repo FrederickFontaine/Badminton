@@ -25,5 +25,5 @@ gallery:
 ---
 
 
-**English version is coming**
+**English version is under construction, please go to french version by clicking on the french flag for a full version of this website**
 
