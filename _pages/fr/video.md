@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: "En video"
+title: "En videos"
 permalink: /fr/envideos/
 
 collection: people
