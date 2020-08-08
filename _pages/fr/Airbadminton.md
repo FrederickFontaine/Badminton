@@ -23,7 +23,7 @@ Le Airbadminton est une nouvelle pratique pour donner l'opportunité à toute pe
 
 + le sable : prenez possession de la plage pour vous mettre au beachminton
 
-+ une surface dure : tapez le volant dans la rue, sur des terrains d'extérieurs de badminton dédiés à cette pratique de plein air !!! A noter que la fédération française de badminton (FFBaD) aide les associations et les clubs à implanter des terrains.
++ une surface dure : tapez le volant dans la rue, sur des terrains d'extérieurs de badminton dédiés à cette pratique de plein air !!! A noter que la fédération française de badminton (FFBaD) aide les associations et les clubs à implanter des terrains
 
 Comment cela est possible ? Grâce à la collaboration entre une université et la BWF qui ont travaillées pendant près de 5 ans pour créer un volant outdoor spécialement conçu pour résister à toutes les intempéries : le Air Shuttle !!! Ce nouveau volant légèrement lesté (environ 8 grammes) est composé d'une base en matériau durable et d'une jupe en plastique avec un design innovant permettant d'avoir un bon vol même en cas de vent jusqu'à 12 km/h. Le but étant de donner la meilleure expérience possible grâce à une qualité de vol, de rotation et de son ressemblant aux volants d'intérieur.   
 
