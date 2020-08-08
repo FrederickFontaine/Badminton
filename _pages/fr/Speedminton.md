@@ -69,6 +69,13 @@ Le volant a lui aussi été repensé avec des matières plus lourds, permettant 
 
 ![Terrain air badminton](/badminton/assets/images/pages/terraincrossminton.png)  
 
+*sur configuration d'un court de tennis*  
+
+  
+![Terrain air badminton](/badminton/assets/images/pages/terrainscrossmintonlibre.png)  
+
+*sur configuration d'un espace libre*  
+
 --------------------- 
 
 [*Textes extraits de ABL Badminton*](https://www.ablbadminton.com/speedminton)

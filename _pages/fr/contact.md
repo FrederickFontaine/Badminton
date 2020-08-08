@@ -4,7 +4,7 @@ permalink: /fr/contact/
 excerpt: "Votre interlocuteur"
 
 header:
-  overlay_image: /assets/images/banner/bannercontact.jpg  
+  overlay_image: /assets/images/banner/bannercontact3.jpg  
   image_description: "contact"
 last_modified_at: 2020-06-08
 ---
