@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: "Histoire du badminton"
+title: "Histoire du Badminton"
 permalink: /fr/histoire/
 
 excerpt: "Une brêve histoire du badminton"

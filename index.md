@@ -5,7 +5,7 @@ permalink: "/"
 
 excerpt: Racket sport
 header:
-  overlay_image: "/assets/images/banner/banneraccueil.jpg"
+  overlay_image: "/assets/images/banner/banner4.png"
 
 
 gallery:

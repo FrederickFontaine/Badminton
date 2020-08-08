@@ -3,7 +3,7 @@ lang: fr
 layout: single
 title: "Les règles"
 permalink: /fr/regles/
-excerpt: "Les règles du base des différentes formules au badminton"
+excerpt: "Les règles de base des différentes formules au badminton"
 classes: wide
 
 header:

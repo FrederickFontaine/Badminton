@@ -1,9 +1,13 @@
 # Navigation Links in French
 main:
-  - title: "Histoire du badminton"
+  - title: "Histoire du Badminton"
     url: /fr/histoire/
   - title: "Les règles"
     url: /fr/regles/
+  - title: "Le AirBadminton"
+    url: /fr/airbadminton/
+  - title: "Le Crossminton"
+    url: /fr/crossminton/
   - title: "En videos"
     url: /fr/envideos/
   - title: "Contact"
