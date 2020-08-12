@@ -13,7 +13,7 @@ header:
   overlay_image: /assets/images/banner/bannervideos.png
   image_description: "Equipe de Recherche sur les Processus Innovatifs"
 
-last_modified_at: 2018-09-07
+last_modified_at: 2020-06-18
 ---
 
 Les services au badminton
