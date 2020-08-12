@@ -11,7 +11,7 @@ header:
 intro:
   - excerpt: "Une brêve histoire du badminton"
 
-last_modified_at: 2020-06-08
+last_modified_at: 2020-07-31
 ---
 
 
