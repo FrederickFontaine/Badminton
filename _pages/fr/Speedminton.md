@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/banner/bannerspeedminton.jpg  
   image_description: "Variante au badminton"
   
-last_modified_at: 2020-06-08
+last_modified_at: 2020-08-24
 ---
 
 

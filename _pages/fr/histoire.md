@@ -6,12 +6,12 @@ permalink: /fr/histoire/
 excerpt: "Une brêve histoire du badminton"
 header:
   overlay_image: /assets/images/banner/bannerhistoire2.jpg
-  image_description: "accueil"
+  image_description: "histoire"
 
 intro:
   - excerpt: "Une brêve histoire du badminton"
 
-last_modified_at: 2020-07-31
+last_modified_at: 2020-08-24
 ---
 
 

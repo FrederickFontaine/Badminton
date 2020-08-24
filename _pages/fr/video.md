@@ -11,9 +11,9 @@ sort_by: orden
 excerpt: "Place aux tutos videos"
 header:
   overlay_image: /assets/images/banner/bannervideos.png
-  image_description: "Equipe de Recherche sur les Processus Innovatifs"
+  image_description: "Tuto"
 
-last_modified_at: 2020-07-31
+last_modified_at: 2020-08-24
 ---
 
 Les services au badminton
@@ -22,7 +22,7 @@ Les services au badminton
 
 <div class="responsive-video-container">
 
-  <iframe src="https://www.youtube-nocookie.com/embed/HDGAhzqgdV8" frameborder="0" allowfullscreen=""></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/xcRPJ7Rhzlw" frameborder="0" allowfullscreen=""></iframe>
 
 </div>
 
